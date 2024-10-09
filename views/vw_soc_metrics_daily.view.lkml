@@ -1,5 +1,5 @@
 view: vw_soc_metrics_daily {
-  sql_table_name: `data-adv-prd-6b1d.adv_analytics_sbx.vw_soc_metrics_daily` ;;
+  sql_table_name: `data-adv-prd-6b1d.explore_assistant.vw_soc_metrics_daily` ;;
 
   dimension: avg_dw_rtt {
     type: number
