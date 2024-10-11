@@ -1,8 +1,7 @@
-
 project_name: "explore_assistant_poc"
 
 application: explore_assistant {
-  label: "Explore Assistant New"
+  label: "Explore Assistant"
   url: "https://localhost:8080/bundle.js"
   # file: "bundle.js"
   entitlements: {
