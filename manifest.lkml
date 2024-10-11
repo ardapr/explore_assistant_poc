@@ -1,3 +1,4 @@
+
 project_name: "explore_assistant_poc"
 
 application: explore_assistant {
